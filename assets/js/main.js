@@ -7,24 +7,24 @@ $('.testimonial-inner').slick({
 	centerMode: true,
 	centerPadding: '200px',
 	arrows: false,
-	dots: false,
+	dots: true,
 	responsive: [
 		{
-		  breakpoint: 1350,
-		  settings: {
-			slidesToShow: 2,
-			slidesToScroll: 1,
-			centerMode: true,
-			centerPadding: '120px',
-		  }
+			breakpoint: 1350,
+			settings: {
+				slidesToShow: 2,
+				slidesToScroll: 1,
+				centerMode: true,
+				centerPadding: '120px',
+			}
 		},
 		{
-			breakpoint: 992,
+			breakpoint: 1180,
 			settings: {
-			  slidesToShow: 1,
-			  slidesToScroll: 1,
-			  centerMode: true,
-			  centerPadding: '120px',
+				slidesToShow: 1,
+				slidesToScroll: 1,
+				centerMode: true,
+				centerPadding: '120px',
 			}
 		},
 		{
@@ -52,7 +52,7 @@ $('.testimonial-inner').slick({
 			}
 		}
 	]
-  });
+});
 
 
 //   JS End
