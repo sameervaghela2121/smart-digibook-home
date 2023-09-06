@@ -285,7 +285,8 @@
 	}
 
 	.header-section nav .main-logo img {
-		width: 160px;
+		width: 300px;
+    	object-fit: contain;
 	}
 
 	.testimonial-section .slick-slide {
