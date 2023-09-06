@@ -402,6 +402,44 @@ input[type=number]::-webkit-outer-spin-button {
 .sample-section .sample-data .sample-data-wrap {
 	width: calc(25% - 30px);
     text-align: center;
+	padding: 20px;
+}
+
+.sample-section .sample-data .sample-data-wrap:nth-child(1) {
+	background-color: #d8ebff;
+}
+
+.sample-section .sample-data .sample-data-wrap:nth-child(2) {
+	background-color: #e4f4d5;
+}
+
+.sample-section .sample-data .sample-data-wrap:nth-child(3) {
+	background-color: #fad6e9;
+}
+
+.sample-section .sample-data .sample-data-wrap:nth-child(4) {
+	background-color: #ffa99f;
+}
+
+.sample-section .sample-data .sample-data-wrap:nth-child(5) {
+	background-color: #e9f6fb;
+}
+
+.sample-section .sample-data .sample-data-wrap:nth-child(6) {
+	background-color: #ffd3ce;
+}
+
+.sample-section .sample-data .sample-data-wrap:nth-child(7) {
+	background-color: #fad6e9;
+}
+
+.sample-section .sample-data .sample-data-wrap:nth-child(7) img {
+	width: 200px;
+	height: 255px;
+}
+
+.sample-section .sample-data .sample-data-wrap:nth-child(8) {
+	background-color: #e6f9ff;
 }
 
 /*  Testimonial section */
