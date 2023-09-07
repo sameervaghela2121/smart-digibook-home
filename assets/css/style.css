@@ -352,6 +352,7 @@ input[type=number]::-webkit-outer-spin-button {
 	margin: 0 auto;
 	max-width: 840px;
 	padding-bottom: 80px;
+	line-height: 1.5;
 }
 
 .associate-section .associate-inner {
