@@ -60,6 +60,10 @@ input[type=number]::-webkit-outer-spin-button {
 	padding-top: 47px;
 }
 
+.header-section nav .main-logo {
+	pointer-events: none;
+}
+
 .header-section nav .main-logo img {
 	width: 340px;
     object-fit: none;
