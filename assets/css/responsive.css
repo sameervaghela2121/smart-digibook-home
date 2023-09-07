@@ -19,8 +19,8 @@
 @media (max-width: 1350px) {
 	.header-section .hero-wrapper {
 		justify-content: center;
-		padding-top: 80px;
-    	padding-bottom: 80px;
+		padding-top: 40px;
+    	padding-bottom: 8px;
 	}
 
 	.testimonial-section .slick-slide {
@@ -89,7 +89,8 @@
 	}
 
 	.header-section .hero-wrapper {
-		padding-bottom: 44px;
+		padding-bottom: 10px;
+		padding-top: 30px;
 	}
 
 	.header-section .hero-wrapper .right {
