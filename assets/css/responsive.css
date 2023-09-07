@@ -285,7 +285,7 @@
 	}
 
 	.header-section nav .main-logo img {
-		width: 300px;
+		width: 335px;
     	object-fit: contain;
 	}
 
@@ -417,7 +417,7 @@
 
 @media (max-width: 768px) {
 	.header-section .hero-wrapper {
-		padding-bottom: 50px;
+		padding-bottom: 20px;
 		padding-top: 10px;
 	}
 

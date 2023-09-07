@@ -72,8 +72,8 @@ input[type=number]::-webkit-outer-spin-button {
 .header-section .hero-wrapper {
 	display: flex;
 	align-items: center;
-	padding-top: 140px;
-    padding-bottom: 220px;
+	padding-top: 60px;
+    padding-bottom: 50px;
 	justify-content: space-between;
 }
 
@@ -121,7 +121,7 @@ input[type=number]::-webkit-outer-spin-button {
 	text-decoration: none;
 	padding: 14px 92px;
 	width: 100%;
-	max-width: 230px;
+	max-width: 270px;
 }
 
 .header-section .hero-wrapper .left .hero-cta-wrap a:nth-child(1){
@@ -244,12 +244,7 @@ input[type=number]::-webkit-outer-spin-button {
 }
 
 .feature-section h2 {
-	color: #000;
-	font-family: Manrope;
-	font-size: 18px;
-	font-weight: 500;
 	padding-bottom: 55px;
-	text-align: center;
 }
 
 .feature-section .feature-upper {
@@ -336,12 +331,6 @@ input[type=number]::-webkit-outer-spin-button {
 }
 
 .associate-section h2 {
-	text-align: center;
-	color: #000;
-	text-align: center;
-	font-family: Manrope;
-	font-size: 36px;
-	font-weight: 700;
 	padding-bottom: 4px;
 }
 
@@ -375,14 +364,6 @@ input[type=number]::-webkit-outer-spin-button {
 .sample-section .sample-header {
 	text-align: center;
 	padding-bottom: 70px;
-}
-
-.sample-section .sample-header h2 {
-	color: #000;
-	text-align: center;
-	font-family: Manrope;
-	font-size: 36px;
-	font-weight: 700;
 }
 
 .sample-section .sample-header p.subheading {
@@ -467,11 +448,7 @@ input[type=number]::-webkit-outer-spin-button {
 }
 
 .testimonial-section h2 {
-	color: #000;
-	font-family: Manrope;
-	font-size: 18px;
-	font-weight: 500;
-	padding-bottom: 30px;
+	padding-bottom: 44px;
 }
 
 .testimonial-section .testimonial-box {
